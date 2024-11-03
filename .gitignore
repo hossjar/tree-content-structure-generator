@@ -4,3 +4,5 @@ build/
 dist/
 Tree Generator.exe
 *.exe
+*.log
+*.pyc
