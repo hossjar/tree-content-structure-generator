@@ -2,4 +2,5 @@ venv/
 build/
 *.spec
 dist/
+Tree Generator.exe
 *.exe
