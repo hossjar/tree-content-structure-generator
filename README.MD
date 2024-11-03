@@ -24,9 +24,5 @@ pyinstaller --onefile --windowed tree_generator_gui.py
 
 After running the above command, use the executable file found in the dist folder.
 
-## or just executable directly
-
-Simply run "Tree generator.exe" in Windows and enjoy!
-
 
 **Thx to Jariani@live.com**
